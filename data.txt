@@ -1,0 +1,96 @@
+The last decade has brought important advances in the area of children’s
+mental health, including a concerted focus on building a scientific base for understanding the mental health difficulties that our most vulnerable members of
+society experience and examining the impact of services that potentially reduce
+child mental health needs [1,2]. Serious concern remains, however, as to whether
+the current child mental health service delivery system can identify and reach
+youth in need of care. The US Surgeon General identified meeting the mental
+health needs of youth by ensuring the receipt of appropriate and relevant mental
+health care as a national priority [2,3].
+These calls to attend to children’s mental health needs are not new. In the early
+1980s, Knitzer [4,5] severely criticized the child mental health service delivery
+system as failing to respond to youths in serious need of mental health care. Two
+decades later, rates of child mental health difficulties remain at alarming levels,
+with an estimated 17% to 26% of youths in need of mental health care across the
+United States [6– 9]. Within low-income, urban communities, rates of child mental health care need have been found to be even higher, with as many as 40% of
+youths evidencing signs of mental health difficulties [10].
+Numerous recent reports and research studies highlight the fact that most
+children with mental health difficulties do not receive any type of mental health
+care [2,3,8,11,12]. For example, a report by the National Institute of Mental
+Health [13] concluded that approximately 75% of children with mental health
+needs do not have any contact with the child mental health service system. This
+disparity between need and use of services was found to be highest for minority
+youth [13,14]. Unfortunately, these rates are identical to those reported in the
+1056-4993/04/$ – see front matter D 2004 Elsevier Inc. All rights reserved.
+doi:10.1016/j.chc.2004.04.001
+This work is supported by grants from the National Institute of Mental Health (K02 MH01796 &
+T32 M#14623).
+* Corresponding author.
+E-mail address: mary.mckay@mssm.edu (M.M. McKay).
+Child Adolesc Psychiatric Clin N Am
+13 (2004) 905 – 921
+mid-1980s by the Office of Technology Assessment [15], which indicates that the
+level of need for services remains unchanged despite advances in developing
+evidence-based assessments, treatments, and services for these children. There is
+a significant need to understand and enhance the ability of the child mental health
+care system to reach out effectively to youth and their families and engage them
+in acceptable and effective child mental health care.
+Addressing the mental health needs of minority youth who live in urban areas
+has emerged as a most critical issue given the substantial evidence that these youth
+are most deeply affected by the stressors that exist within inner-city communities,
+notably poverty, community violence, inadequate child serving resources, undersupported schools, substance abuse, and multiple health epidemics [16 – 20]. This
+article pays specific attention to issues related to engaging urban youth of color
+and their families in services and provides an overview of the larger body of
+research on engagement of youth and their families in mental health care.
+Defining child mental health service engagement
+Multiple conceptualizations of the process of engagement of youth and
+families in mental health care have been offered and tested. For example, in a
+series of articles, engagement has been defined as a process that begins with a
+child being identified as experiencing mental health difficulties and ending with
+a child receiving mental health care [21 – 23]. More specifically, engagement in
+care is described as beginning with the recognition of a child mental health problem by parents, teachers, or other adults within a child’s context. Next, there is a
+process of addressing the unmet need by connecting a youth and the family with
+a mental health resource, generally via a referral for care. The final phase of engagement consists of a child being brought to a child mental health center or
+being seen by a school-based mental health care provider.
+Within the literature, engagement in child mental health services also has been
+divided into two specific steps: initial attendance and ongoing engagement [24].
+Each step is considered related to the other, but each one also emerges as a
+distinct construct being independently related to characteristics of the child, the
+family, and the service system. Rates of service engagement also differ at each of
+the two steps and warrant specific consideration. For example, studies that focused on attendance at initial appointments for care within an urban child mental
+health care center found that rates of failure to attend an initial intake appointment
+can range from 62% [25] to 48% [26] of youth accepted for an evaluation. In
+relation to ongoing urban service engagement, estimates of average length of care
+can be as low as four sessions [27] or rates of as few as 9% of youth and their
+families remaining in care after a 3-month period.
+Researchers have suggested that a more precise definition of service engagement may contribute to more reliable research findings and generalizability.
+Kadzin et al [28 –30] noted that grouping children and families who discontinue
+services into one category (ie, dropouts) may contribute to inconsistent and biased
+906 M.M. McKay, W.M. Bannon, Jr / Child Adolesc Psychiatric Clin N Am 13 (2004) 905–921
+findings. The authors noted distinct phases of ongoing engagement and observed
+that children who exit treatment do so at diverse points, such as while waiting for
+treatment, after one or two treatment sessions, or later in treatment. It was
+hypothesized in a study conducted by this team involving youth with disruptive
+behavioral difficulties at the Yale Child Study Center that the characteristics of
+children and families who drop out of services vary in relation to the point in time
+at which they exited services [29]. Subsequent findings supported this hypothesis.
+More specifically, the study sample was divided into three groups: early dropouts (attended 6 weeks of treatment), late dropouts (attended 7– 14 weeks of
+treatment), and individuals who completed therapy (approximately 7– 8 months).
+Children and families who dropped out early in the treatment process averaged
+3.8 sessions, whereas later dropouts averaged 10.8 sessions of treatment. Analyses
+indicated that child, parent, and family characteristics differed significantly between the overall group of families who terminated treatment prematurely and
+completed treatment. Most of the domains and measures that predicted early termination from treatment in analyses did not predict late termination from treatment,
+however. In comparison to completers, families that dropped out of treatment early
+were significantly more likely to belong to a minority group, have greater stress,
+and be headed by a single parent. Children in families that dropped out early
+were characterized by more severe child impairment in relation to conduct disorder
+and delinquency, academic functioning, and social behavior problems. When comparing late terminators versus completers, late terminators differed by nonbiologic
+head of household, child antisocial history, and poor adaptive functioning at school.
+A direct comparison between early and late terminators revealed that the two
+groups differed significantly by minority status, family income, poor living accommodations, adverse family child-rearing practices, child contact with antisocial peers, and poor adaptive functioning at school. The authors noted that the
+literature is often at odds, reporting inconsistent findings of which families drop
+out of treatment prematurely. This study identified that a reason for these conflicting findings may be that combining all dropouts into a single group is potentially misleading and can obscure our understanding of the process of families
+prematurely exiting services. A more precise definition and conceptualization of
+different categories of dropouts may be needed by the child attrition literature.
+These findings also potentially can guide specific engagement interventions by
+helping to identify and target risk factors associated with families that drop out at
+different points of the treatment process.
