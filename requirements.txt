@@ -3,3 +3,4 @@ streamlit
 pinecone-client
 langchain
 python-dotenv
+langchain-community
